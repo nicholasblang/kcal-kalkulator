@@ -2,7 +2,7 @@
  "name": "Kalorikalender",
  "short_name": "Kalorier",
  "lang": "nb",
- "start_url": "./kalorikalender.html",
+ "start_url": "./index.html",
  "scope": "./",
  "display": "standalone",
  "background_color": "#f5f7f2",
